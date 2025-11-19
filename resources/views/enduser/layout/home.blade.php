@@ -33,7 +33,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-primary text-uppercase mb-3">Spa & Beauty Center</h4>
                             <h1 class="display-1 text-capitalize text-dark mb-3">Massage Treatment</h1>
-                            <p class="mx-md-5 fs-4 px-4 mb-5 text-dark">Lorem rebum magna dolore amet lorem eirmod magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum</p>
+                            <p class="mx-md-5 fs-4 px-4 mb-5 text-dark">Rediscover deep relaxation with our signature massage—designed to ease tension, improve circulation, and restore total body comfort.</p>
                             <div class="d-flex align-items-center justify-content-center">
                                 <a class="btn btn-light btn-light-outline-0 rounded-pill py-3 px-5 me-4" href="#">Get Start</a>
                                 <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="#">Book Now</a>
@@ -47,7 +47,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-primary text-uppercase mb-3" style="letter-spacing: 3px;">Spa & Beauty Center</h4>
                             <h1 class="display-1 text-capitalize text-dark mb-3">Facial Treatment</h1>
-                            <p class="mx-md-5 fs-4 px-5 mb-5 text-dark">Lorem rebum magna dolore amet lorem eirmod magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum</p>
+                            <p class="mx-md-5 fs-4 px-5 mb-5 text-dark">Reveal a fresh, radiant glow with our professional facial treatment, crafted to cleanse, renew, and nourish your skin.</p>
                             <div class="d-flex align-items-center justify-content-center">
                                 <a class="btn btn-light btn-light-outline-0 rounded-pill py-3 px-5 me-4" href="#">Get Start</a>
                                 <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="#">Book Now</a>
@@ -61,7 +61,7 @@
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-primary text-uppercase mb-3" style="letter-spacing: 3px;">Spa & Beauty Center</h4>
                             <h1 class="display-1 text-capitalize text-dark">Cellulite Treatment</h1>
-                            <p class="mx-md-5 fs-4 px-5 mb-5 text-dark">Lorem rebum magna dolore amet lorem eirmod magna erat diam stet. Sadips duo stet amet amet ndiam elitr ipsum</p>
+                            <p class="mx-md-5 fs-4 px-5 mb-5 text-dark">Smooth and firm your body with our advanced cellulite treatment—targeted to refine skin texture and boost confidence.</p>
                             <div class="d-flex align-items-center justify-content-center">
                                 <a class="btn btn-light btn-light-outline-0 rounded-pill py-3 px-5 me-4" href="#">Get Start</a>
                                 <a class="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5" href="#">Book Now</a>
@@ -1132,7 +1132,7 @@
                 <div class="col-12">
                     <div class="rounded">
                         <iframe class="rounded-top w-100" 
-                        style="height: 450px; margin-bottom: -6px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387191.33750346623!2d-73.97968099999999!3d40.6974881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1694259649153!5m2!1sen!2sbd" 
+                        style="height: 450px; margin-bottom: -6px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4441.273827641074!2d115.2590592263916!3d-8.514388920019767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd23d12ccc92a7b%3A0xf0a52c53ba5d30a8!2sMelya%20Dewi%20Spa%20%26%20Salon!5e0!3m2!1sid!2sid!4v1763569879244!5m2!1sid!2sid" 
                         loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     <div class=" text-center p-4 rounded-bottom bg-primary">

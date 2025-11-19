@@ -15,3 +15,6 @@ Route::get('/service', function () {
 Route::get('/gallery', function () {
     return view('enduser.gallery.view');
 });
+Route::get('/contact', function () {
+    return view('enduser.contact.view');
+});

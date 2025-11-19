@@ -45,7 +45,7 @@
                                 <a href="appointment.html" class="dropdown-item">Appointment</a>
                             </div>
                         </div>
-                        <a href="contact.html" class="nav-item nav-link">Contact Us</a>
+                        <a href="/contact" class="nav-item nav-link">Contact Us</a>
                     </div>
                     <div class="d-flex align-items-center flex-nowrap pt-xl-0">
                         <button class="btn-search btn btn-primary btn-primary-outline-0 rounded-circle btn-lg-square" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button>
