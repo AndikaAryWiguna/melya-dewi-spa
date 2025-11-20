@@ -831,7 +831,7 @@
                     <div class="rounded pricing-content">
                         <div class="d-flex align-items-center justify-content-between bg-light rounded-top border-3 border-bottom border-primary p-4">
                             <h1 class="display-4 mb-0">
-                                <small class="align-top text-muted" style="font-size: 22px; line-height: 45px;">$</small>49<small class="text-muted" style="font-size: 16px; line-height: 40px;">/Mo</small>
+                                <small class="align-top text-muted" style="font-size: 22px; line-height: 45px;">Rp.</small>49<small class="text-muted" style="font-size: 16px; line-height: 40px;">/mo</small>
                             </h1>
                             <h5 class="text-primary text-uppercase m-0">Basic Plan</h5>
                         </div>
@@ -849,7 +849,7 @@
                     <div class="pricing-content rounded">
                         <div class="d-flex align-items-center justify-content-between bg-light rounded-top border-3 border-bottom border-primary p-4">
                             <h1 class="display-4 mb-0">
-                                <small class="align-top text-muted" style="font-size: 22px; line-height: 45px;">$</small>99<small class="text-muted" style="font-size: 16px; line-height: 40px;">/Mo</small>
+                                <small class="align-top text-muted" style="font-size: 22px; line-height: 45px;">Rp.</small>99<small class="text-muted" style="font-size: 16px; line-height: 40px;">/mo</small>
                             </h1>
                             <h5 class="text-primary text-uppercase m-0">Family Plan</h5>
                         </div>
@@ -867,7 +867,7 @@
                     <div class="pricing-content rounded">
                         <div class="d-flex align-items-center justify-content-between bg-light rounded-top border-3 border-bottom border-primary p-4">
                             <h1 class="display-4 mb-0">
-                                <small class="align-top text-muted" style="font-size: 22px; line-height: 45px;">$</small>149<small class="text-muted" style="font-size: 16px; line-height: 40px;">/Mo</small>
+                                <small class="align-top text-muted" style="font-size: 22px; line-height: 30px;">Rp.</small>149<small class="text-muted" style="font-size: 16px; line-height: 40px;">/mo</small>
                             </h1>
                             <h5 class="text-primary text-uppercase m-0">VIP Plan</h5>
                         </div>
@@ -885,7 +885,7 @@
                     <div class="pricing-content rounded">
                         <div class="d-flex align-items-center justify-content-between bg-light rounded-top border-3 border-bottom border-primary p-4">
                             <h1 class="display-4 mb-0">
-                                <small class="align-top text-muted" style="font-size: 22px; line-height: 45px;">$</small>199<small class="text-muted" style="font-size: 16px; line-height: 40px;">/Mo</small>
+                                <small class="align-top text-muted" style="font-size: 22px; line-height: 45px;">Rp.</small>99<small class="text-muted" style="font-size: 16px; line-height: 40px;">/mo</small>
                             </h1>
                             <h5 class="text-primary text-uppercase m-0">Most Plan</h5>
                         </div>

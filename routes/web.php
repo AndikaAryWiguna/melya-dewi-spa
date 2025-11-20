@@ -18,3 +18,6 @@ Route::get('/gallery', function () {
 Route::get('/contact', function () {
     return view('enduser.contact.view');
 });
+Route::get('/booking', function () {
+    return view('enduser.booking.view');
+});
