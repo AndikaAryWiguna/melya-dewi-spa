@@ -40,9 +40,9 @@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pakages</a>
                             <div class="dropdown-menu m-0 bg-secondary rounded-0">
-                                <a href="team.html" class="dropdown-item">Melya</a>
-                                <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                                <a href="appointment.html" class="dropdown-item">Appointment</a>
+                                <a href="team.html" class="dropdown-item">Spa Packages</a>
+                                <a href="testimonial.html" class="dropdown-item">Scrubs & Baths</a>
+                                <a href="appointment.html" class="dropdown-item">Body Work</a>
                             </div>
                         </div>
                         <a href="/contact" class="nav-item nav-link">Contact Us</a>
