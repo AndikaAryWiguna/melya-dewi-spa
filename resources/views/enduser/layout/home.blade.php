@@ -1,23 +1,4 @@
 <x-layout>
-    <!-- Modal Search Start -->
-    <div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-fullscreen">
-            <div class="modal-content rounded-0">
-                <div class="modal-header">
-                    <h4 class="modal-title mb-0" id="exampleModalLabel">Search by keyword</h4>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body d-flex align-items-center">
-                    <div class="input-group w-75 mx-auto d-flex">
-                        <input type="search" class="form-control p-3" placeholder="keywords" aria-describedby="search-icon-1">
-                        <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Modal Search End -->
-
     <!-- Carousel Start -->
     <div class="container-fluid carousel-header px-0">
         <div id="carouselId" class="carousel slide" data-bs-ride="carousel">
@@ -1105,7 +1086,7 @@
                                 <i class="fas fa-map-marker-alt fa-2x text-primary me-4"></i>
                                 <div>
                                     <h4>Address</h4>
-                                    <p class="mb-0">123 North tower New York, USA</p>
+                                    <p class="mb-0">Jl. Monkey Forest, Ubud, Kecamatan Ubud</p>
                                 </div>
                             </div>
                         </div>
@@ -1123,7 +1104,7 @@
                                 <i class="fa fa-phone-alt fa-2x text-primary me-4"></i>
                                 <div>
                                     <h4>Telephone</h4>
-                                    <p class="mb-0">(+012) 3456 7890 123</p>
+                                    <p class="mb-0">(+62) 813-3791-4048</p>
                                 </div>
                             </div>
                         </div>

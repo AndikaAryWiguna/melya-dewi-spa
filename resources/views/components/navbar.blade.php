@@ -5,9 +5,9 @@
             <div class="row align-items-center">
                 <div class="col-lg-8">
                     <div class="d-flex flex-wrap">
-                        <a href="#" class="me-4 text-light"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
-                        <a href="#" class="me-4 text-light"><i class="fas fa-phone-alt text-primary me-2"></i>+62 813-3791-4048 </a>
-                        <a href="#" class="text-light"><i class="fas fa-envelope text-primary me-2"></i>Example@gmail.com</a>
+                        <a href="https://maps.app.goo.gl/aXomCsgQd3QZLdmT9" class="me-4 text-light"><i class="fas fa-map-marker-alt text-primary me-2"></i>Find A Location</a>
+                        <a href="#" class="me-4 text-light"><i class="fas fa-phone-alt text-primary me-2"></i>+62 813-3791-4048</a>
+                        <a href="#" class="text-light"><i class="fas fa-envelope text-primary me-2"></i>melyadewispa@gmail.com</a>
                     </div>
 
                 </div>
@@ -39,7 +39,7 @@
                         <a href="/gallery" class="nav-item nav-link">Gallery</a>
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pakages</a>
-                            <div class="dropdown-menu m-0 bg-secondary rounded-0">
+                            <div class="dropdown-menu m-2 bg-secondary rounded-0">
                                 <a href="team.html" class="dropdown-item">Spa Packages</a>
                                 <a href="testimonial.html" class="dropdown-item">Scrubs & Baths</a>
                                 <a href="appointment.html" class="dropdown-item">Body Work</a>
@@ -57,3 +57,22 @@
     </div>
 </div>
 <!-- Navbar End -->
+
+<!-- Modal Search Start -->
+<div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-fullscreen">
+        <div class="modal-content rounded-0">
+            <div class="modal-header">
+                <h4 class="modal-title mb-0" id="exampleModalLabel">Search by keyword</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body d-flex align-items-center">
+                <div class="input-group w-75 mx-auto d-flex">
+                    <input type="search" class="form-control p-3" placeholder="keywords" aria-describedby="search-icon-1">
+                    <span id="search-icon-1" class="input-group-text p-3"><i class="fa fa-search"></i></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal Search End -->
